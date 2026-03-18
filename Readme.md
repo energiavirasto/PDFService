@@ -1,6 +1,8 @@
 # PDFService
 
-A .NET 8 REST API for HTML-to-PDF conversion and PDF merging, built on [iText 7](https://github.com/itext/itext-dotnet).
+A containerized .NET 8 REST API for HTML-to-PDF conversion and PDF merging, built on [iText 7](https://github.com/itext/itext-dotnet).
+
+A fully stand alone containerized PDF/A creation and merging tool.
 
 ## License
 
