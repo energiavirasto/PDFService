@@ -1,0 +1,6 @@
+@PDFService_HostAddress = http://localhost:5076
+
+GET {{PDFService_HostAddress}}/pdf/
+Accept: application/json
+
+###

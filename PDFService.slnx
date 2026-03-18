@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PDFService.Api/PDFService.Api.csproj" />
+  <Project Path="PDFService.Services/PDFService.Services.csproj" />
+  <Project Path="PDFService.Tests/PDFService.Tests.csproj" />
+</Solution>
